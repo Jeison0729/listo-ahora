@@ -1,2 +1,2 @@
-nombre="Hola beibi"
-print("Tu!",+nombre)
+nombre = "mi amorrr"
+print("Tu!", +nombre)
